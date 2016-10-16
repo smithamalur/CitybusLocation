@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HardcodedText">
+        <ignore path="res\layout\activity_main.xml" />
+        <ignore path="res\layout\bus_routes.xml" />
+        <ignore path="res\layout\bus_stops.xml" />
+        <ignore path="res\layout\busroutes.xml" />
+        <ignore path="res\layout\guide.xml" />
+        <ignore path="res\layout\mapbutton.xml" />
+        <ignore path="res\layout\routesinfos.xml" />
+        <ignore path="res\layout\startpage.xml" />
+    </issue>
+    <issue id="ScrollViewSize">
+        <ignore path="res\layout\bus_stops.xml" />
+        <ignore path="res\layout\busroutes.xml" />
+        <ignore path="res\layout\mapbutton.xml" />
+    </issue>
+</lint>
